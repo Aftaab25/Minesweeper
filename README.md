@@ -1,3 +1,2 @@
 # Minesweeper
-Terminal based Minesweeper game in C++
-Used the concept of Recursion.
+Terminal based Minesweeper game in C++ that uses the concept of Recursion.
